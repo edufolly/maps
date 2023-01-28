@@ -10,10 +10,12 @@ dependencies:
     git:
       url: https://github.com/edufolly/maps.git
       path: mapbox_gl_platform_interface
+      ref: dev
   mapbox_gl_web:
     git:
       url: https://github.com/edufolly/maps.git
       path: mapbox_gl_web
+      ref: dev
   collection: ^1.15.0
 
 dependency_overrides:
